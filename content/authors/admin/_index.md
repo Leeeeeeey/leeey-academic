@@ -3,7 +3,7 @@
 title: 李勇
 
 # Name pronunciation (optional)
-name_pronunciation: Leey
+name_pronunciation: Li Yong
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 安徽师范大学 数学与统计学院 讲师
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 安徽师范大学
+    url: https://www.ahnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 我的研究方向和兴趣是多复变与Clifford分析，最近的研究兴趣为Clifford分析中的Gilbert猜想
 
 # Interests to show in About widget
 interests:
@@ -36,12 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: 基础数学 理学博士学位 博士学位论文:《八元数超复分析及其应用》 导师:任广斌教授
+      institution: 中国科学技术大学
+      year: 2016.09--2022.06
+    - course: 数学与应用数学(T) 理学学士学位
+      institution: 中南大学
+      year: 2012.09--2016.06
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
